@@ -1,7 +1,7 @@
 <!--
-author:   André Dietrich  & Sebastian Zug
+author:   Paul Hibbitts
 
-email:    LiaScript@web.de
+email:    paul@hibbittsdesign.org
 
 version:  0.0.2
 
@@ -11,8 +11,7 @@ language: en
 
 narrator: US English Female
 
-comment:  This is an interactive presentation about LiaScript and CodiLIA for
-          the Open Education Berlin conference in 2020.
+comment:  CMPT 363 User Interface Design
 
 import:   https://raw.githubusercontent.com/liaTemplates/AVR8js/main/README.md
           https://raw.githubusercontent.com/liaTemplates/vtk/master/README.md
