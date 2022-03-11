@@ -3,13 +3,13 @@ author:   Paul Hibbitts
 
 email:    paul@hibbittsdesign.org
 
-version:  0.0.2
+version:  0.0.1
 
-date:     03/12/2020
+date:     03/10/2022
 
 language: en
 
-narrator: US English Female
+narrator: US English Male
 
 comment:  CMPT 363 User Interface Design
 
