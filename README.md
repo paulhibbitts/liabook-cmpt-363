@@ -13,8 +13,7 @@ narrator: US English Male
 
 comment:  CMPT 363 User Interface Design
 
-import:   https://raw.githubusercontent.com/liaTemplates/AVR8js/main/README.md
-          https://raw.githubusercontent.com/liaTemplates/vtk/master/README.md
+import:   https://raw.githubusercontent.com/paulhibbitts/liabook-cmpt-363/master/README.md
 
 @js: <script>@0</script>
 -->
