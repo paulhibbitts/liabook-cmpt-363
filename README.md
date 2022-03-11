@@ -11,7 +11,7 @@ language: en
 
 narrator: US English Male
 
-logo:     https://github.com/paulhibbitts/liabook-cmpt-363/raw/main/pic/firos-nv-Z2c6ounF-iE-unsplash.jpg
+logo:     ./pic/firos-nv-Z2c6ounF-iE-unsplash.jpg
 
 comment:  CMPT 363 User Interface Design
 
