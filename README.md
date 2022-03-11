@@ -27,7 +27,7 @@ import:   https://raw.githubusercontent.com/liaTemplates/AVR8js/main/README.md
 **BlackBoard Collaborate Session Slides**
 [Course Overview](https://docs.google.com/presentation/d/e/2PACX-1vTE_hmCdv7FaiXpY8Qxe0Fc2qUQhIc-EceAwp8N6eut-2RQq_WUSILnhalAZnics__ShCWLXpOZ_Uxv/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Course%20Overview) | [Recording](https://canvas.sfu.ca/courses/64326/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)  
 
-??[presentation](https://docs.google.com/presentation/d/e/2PACX-1vTE_hmCdv7FaiXpY8Qxe0Fc2qUQhIc-EceAwp8N6eut-2RQq_WUSILnhalAZnics__ShCWLXpOZ_Uxv/embed?start=false&loop=false&delayms=3000)
+??[Blackboard Collab Slides](https://docs.google.com/presentation/d/e/2PACX-1vTE_hmCdv7FaiXpY8Qxe0Fc2qUQhIc-EceAwp8N6eut-2RQq_WUSILnhalAZnics__ShCWLXpOZ_Uxv/embed?start=false&loop=false&delayms=3000)
 
 **Suggested Readings**  
 [Course Syllabus](https://canvas.sfu.ca/courses/64326/assignments/syllabus)
@@ -52,7 +52,7 @@ import:   https://raw.githubusercontent.com/liaTemplates/AVR8js/main/README.md
 **BlackBoard Collaborate Session Slides**  
 [Introduction to UX — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vTl23HzbBN1Wzf6Yn_3jrWlnyB6p_4IxxeUf04FuF-FldkCeJUDJUWYJwJ9yNfkCbME17Ro7hLWaNsk/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-02) | [Recording](https://canvas.sfu.ca/courses/64326/external_tools/3544)
 
-<div style="width:100%;height:0;padding-bottom:68%;position:relative;"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTl23HzbBN1Wzf6Yn_3jrWlnyB6p_4IxxeUf04FuF-FldkCeJUDJUWYJwJ9yNfkCbME17Ro7hLWaNsk/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+??[Blackboard Collab Slides](https://docs.google.com/presentation/d/e/2PACX-1vTl23HzbBN1Wzf6Yn_3jrWlnyB6p_4IxxeUf04FuF-FldkCeJUDJUWYJwJ9yNfkCbME17Ro7hLWaNsk/embed?start=false&loop=false&delayms=3000)
 
 [Week 2 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vSoPw9O2NbYdVxUaD7nWb2XenzYpWVnqSEnjK01CD31TarWhHGUOkWgffsXOIFXaaFGTV566gFwyPFu/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-02) | [Recording](https://canvas.sfu.ca/courses/64326/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)
 
